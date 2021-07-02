@@ -1,2 +1,3 @@
-Leader: Eko
-Staff: -
+Leader: Eko Wibowo
+Staff: Oke
+Done.
